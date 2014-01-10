@@ -1,3 +1,5 @@
+**NOTE:** This has moved to https://github.com/mesos/mesos-distcc.
+
 mesos-distcc: distcc on Mesos.
 ==============================
 
